@@ -1,0 +1,39 @@
+.eva-title {
+  position: relative;
+  width: 100%;
+  padding-top: 50%;
+  background: #000;
+  font-family: serif;
+  font-weight: bold;
+  color: #fff;
+  letter-spacing: -0.25em;
+  margin: 0;
+}
+
+.eva-title span {
+  position: absolute;
+}
+
+.eva-title span:nth-child(1) {
+  top: 4%;
+  left: 4%;
+  font-size: 9vw;
+}
+
+.eva-title span:nth-child(2) {
+  top: 23%;
+  left: 5%;
+  font-size: 15vw;
+}
+
+.eva-title span:nth-child(3) {
+  top: 54%;
+  left: 5%;
+  font-size: 15vw;
+}
+
+.eva-title span:nth-child(4) {
+  top: 54%;
+  left: 28%;
+  font-size: 15vw;
+}
